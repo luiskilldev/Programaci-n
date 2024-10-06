@@ -1,2 +1,2 @@
-# Programaci-n
+# Programacion
 Programación primer curso de DAM
